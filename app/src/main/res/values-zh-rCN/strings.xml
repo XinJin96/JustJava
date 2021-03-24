@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toppings" translatable="false">奶盖</string>
+    <string name="input_hint">请输入您的名字</string>
+    <string name="whipped_cream">奶油</string>
+    <string name="chocolate">巧克力</string>
+    <string name="quantity">数量</string>
+    <string name="price">价格</string>
+    <string name="order">确定</string>
+    <string name="app_name">奶茶店</string>
+</resources>
